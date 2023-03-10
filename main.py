@@ -1,0 +1,3 @@
+from saluto_cognome_Gruppo1 import saluto_cognome_Gruppo1
+
+saluto_cognome_Gruppo1()
