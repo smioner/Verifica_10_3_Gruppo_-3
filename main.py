@@ -1,3 +1,3 @@
-from saluto_cognome_Gruppo1 import saluto_cognome_Gruppo1
+from saluto_cognome_Gruppo3 import saluto_cognome_Gruppo3
 
-saluto_cognome_Gruppo1()
+saluto_cognome_Gruppo3()
