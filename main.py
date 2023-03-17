@@ -1,6 +1,6 @@
-import Saluto_Farinelli, Saluto_Olivo
+import Saluto_Farinelli, Saluto_Olivo, Saluto_Taddei
 
 def Saluto():
-    print("Un saluto da smioners")
+    print("Un saluto da smioners")
 
 Saluto()
